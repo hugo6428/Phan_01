@@ -1,0 +1,14 @@
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\bin\Debug\net8.0\BigNumMulti.exe
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\bin\Debug\net8.0\BigNumMulti.deps.json
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\bin\Debug\net8.0\BigNumMulti.runtimeconfig.json
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\bin\Debug\net8.0\BigNumMulti.dll
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\bin\Debug\net8.0\BigNumMulti.pdb
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\obj\Debug\net8.0\BigNumMulti.GeneratedMSBuildEditorConfig.editorconfig
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\obj\Debug\net8.0\BigNumMulti.AssemblyInfoInputs.cache
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\obj\Debug\net8.0\BigNumMulti.AssemblyInfo.cs
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\obj\Debug\net8.0\BigNumMulti.csproj.CoreCompileInputs.cache
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\obj\Debug\net8.0\BigNumMulti.dll
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\obj\Debug\net8.0\refint\BigNumMulti.dll
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\obj\Debug\net8.0\BigNumMulti.pdb
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\obj\Debug\net8.0\BigNumMulti.genruntimeconfig.cache
+D:\nhat\HKHè\Nhóm\Phan01\BigNumMulti\obj\Debug\net8.0\ref\BigNumMulti.dll

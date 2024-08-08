@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{525DFFB1-7E3C-4FB5-B2CC-8C5BEAC3EBED}|BigNumMulti\\BigNumMulti.csproj|d:\\nhat\\hkh\u00E8\\nh\u00F3m\\phan01\\bignummulti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525DFFB1-7E3C-4FB5-B2CC-8C5BEAC3EBED}|BigNumMulti\\BigNumMulti.csproj|solutionrelative:bignummulti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EDDCEE-91FD-46DA-B753-A375A1DECA18}|MergeSort\\MergeSort.csproj|d:\\nhat\\hkh\u00E8\\nh\u00F3m\\phan01\\mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EDDCEE-91FD-46DA-B753-A375A1DECA18}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE08F78-CDA5-4443-ABD2-B236AEAE79B2}|BinarySearch\\BinarySearch.csproj|d:\\nhat\\hkh\u00E8\\nh\u00F3m\\phan01\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE08F78-CDA5-4443-ABD2-B236AEAE79B2}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan01\\BigNumMulti\\Program.cs",
+              "RelativeDocumentMoniker": "BigNumMulti\\Program.cs",
+              "ToolTip": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan01\\BigNumMulti\\Program.cs",
+              "RelativeToolTip": "BigNumMulti\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:46:45.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan01\\MergeSort\\Program.cs",
+              "RelativeDocumentMoniker": "MergeSort\\Program.cs",
+              "ToolTip": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan01\\MergeSort\\Program.cs",
+              "RelativeToolTip": "MergeSort\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:45:20.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan01\\BinarySearch\\Program.cs",
+              "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
+              "ToolTip": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan01\\BinarySearch\\Program.cs",
+              "RelativeToolTip": "BinarySearch\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:42:51.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
